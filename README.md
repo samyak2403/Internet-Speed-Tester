@@ -73,4 +73,4 @@ Android, Internet Speed, Speed Test, AdMob, Native Ads, Kotlin, Java, Open Sourc
 
 ## Contact
 
-For any questions or issues, feel free to open an issue on GitHub or contact me directly at [your-email@example.com](mailto:your-email@example.com).
+For any questions or issues, feel free to open an issue on GitHub or contact me directly at [arrowwould@gmail.com](arrowwould@gmail.com).
