@@ -57,7 +57,7 @@ This Android application measures internet speed and displays the results in a v
 
 | Real-time Speed Test | Native Ad Integration |
 |----------------------|-----------------------|
-| ![Screenshot 1](path_to_your_screenshot1) | ![Screenshot 2](path_to_your_screenshot2) |
+| <img src="1.png" width="250px"/> | <img src="3.png" width="250px"/> |
 
 ## License
 
