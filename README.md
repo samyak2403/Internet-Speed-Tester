@@ -1,7 +1,10 @@
 # Internet Speed Tester
 
 Internet Speed Tester is an Android application that allows users to measure the speed of their internet connection in real-time. The app features a visually appealing gauge interface that displays download speed, latency, and includes support for AdMob native ads.
+## 📸 Visuals
 
+Here's a sneak peek:  
+![Invoice Preview](https://via.placeholder.com/800x400.png?text=Invoice+Preview)
 ## Features
 
 - **Real-time Internet Speed Test**: The app measures and displays the download speed of your internet connection in MB/s.
