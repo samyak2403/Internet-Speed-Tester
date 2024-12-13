@@ -5,7 +5,7 @@ Internet Speed Tester is an Android application that allows users to measure the
 
 
 Here's a sneak peek:  
-![Invoice Preview](https://github.com/user-attachments/assets/8e94c57f-793d-4d61-88aa-439afd5d5298)
+![Invoice Preview](https://www.codester.com/static/uploads/items/000/052/52651/preview-xl.jpg)
 ## Features
 
 - **Real-time Internet Speed Test**: The app measures and displays the download speed of your internet connection in MB/s.
