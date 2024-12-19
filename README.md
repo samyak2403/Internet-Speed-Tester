@@ -3,11 +3,7 @@
 Internet Speed Tester is an Android application that allows users to measure the speed of their internet connection in real-time. The app features a visually appealing gauge interface that displays download speed, latency, and includes support for AdMob native ads.
 ## 📸 Visuals
 
-## 📲 Download the APK:
 
-<a href="https://github.com/samyak2403/Internet-Speed-Tester/raw/master/app/release/app-release.apk">
-  <img src="https://github.com/user-attachments/assets/a0c5dcca-d0dc-477b-b864-98c13e12d15d" alt="Download Love Calculator APK" style="width: 300px; height: auto;">
-</a>
 
 
 Here's Buy Sorce Code :  
